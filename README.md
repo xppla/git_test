@@ -1,4 +1,5 @@
 git的一些基本操作 https://www.cnblogs.com/gzpblog/p/5462779.html
+
    mkdir：         XX (创建一个空目录 XX指目录名)
    pwd：          显示当前目录的路径。
    

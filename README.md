@@ -31,6 +31,8 @@ git的一些基本操作 https://www.cnblogs.com/gzpblog/p/5462779.html
    git remote add origin https://github.com/tugenhua0707/testgit 关联一个远程库
 
    git push –u(第一次要用-u 以后不需要) origin master 把当前master分支推送到远程库
+   
+   使用强制push的方法：git push -u origin master -f
 
    git clone https://github.com/tugenhua0707/testgit  从远程库中克隆
 
